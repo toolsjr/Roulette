@@ -1,0 +1,22 @@
+locations:
+  lobby:
+    world: world
+    x: 3
+    y: 101
+    z: -30
+    yaw: 0.0
+    pitch: 0.0
+  player1:
+    world: world
+    x: 2
+    y: 101
+    z: -4
+    yaw: 0.0
+    pitch: 0.0
+  player2:
+    world: world
+    x: 2
+    y: 101
+    z: -4
+    yaw: 180.0
+    pitch: 0.0
